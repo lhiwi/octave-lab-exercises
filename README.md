@@ -16,7 +16,6 @@ This repository contains solutions to introductory Octave programming exercises.
 
 ## How to Run
 
-Open GNU Octave and navigate to the directory containing these scripts:
-
-```octave
-cd 'path/to/octave-lab-exercises'
+1. Open Octave
+2. Change folder: `cd 'path/'`
+3. Run: `function(arguments)`
